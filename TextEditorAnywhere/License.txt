@@ -1,0 +1,44 @@
+License Agreement
+
+You should read the following terms and conditions carefully before using this software. Your use 
+of this software indicates your full acceptance of this license agreement and warranty.
+
+1. General Use
+
+You are granted a non-exclusive license to use Text Editor Anywhere software program 
+(hereinafter referred to as the "SOFTWARE") solely without any charge. You may freely 
+redistribute the "SOFTWARE" with the following exceptions:
+
+The original package supplied by Bopsoft is not modified. You may not alter, delete or add any 
+files in the distribution archive.
+
+No money is charged to the person receiving the software without written permission from the 
+copyright holder. 
+
+2. Copyright and Ownership
+
+The "SOFTWARE" is copyrighted and owned by Bopsoft. You acknowledge that the title, 
+ownership rights, and intellectual property rights in and to the "SOFTWARE" shall remain in 
+exclusive property of Bopsoft.
+
+3. Software Protection
+
+You shall not decompile, reverse engineer, disassemble or otherwise reduce any part of this 
+"SOFTWARE" to human readable form nor permit any third party to do so. You shall not, nor 
+permit any third party to copy, make error corrections to or otherwise modify, adapt or translate 
+the "SOFTWARE" nor create derivative works of the "SOFTWARE".
+
+4. Disclaimer of Warranty
+
+BOPSOFT EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE. THE 
+SOFTWARE AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT 
+WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT 
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, OR NONINFRINGEMENT. BOPSOFT DOES NOT WARRANT, 
+GUARANTEE, OR MAKE ANY REPRESENTATIONS REGARDING THE USE, OR THE 
+RESULTS OF THE USE, OF THE SOFTWARE IN TERMS OF CORRECTNESS, ACCURACY, 
+RELIABILITY, OR OTHERWISE. THE ENTIRE RISK ARISING OUT OF USE OR 
+PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU. NO ORAL OR WRITTEN 
+INFORMATION OR ADVICE GIVEN BY BOPSOFT OR A BOPSOFT AUTHORIZED 
+REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE 
+OF THIS WARRANTY.

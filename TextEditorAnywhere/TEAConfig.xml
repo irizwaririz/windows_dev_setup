@@ -1,0 +1,14 @@
+<TextEditorAnywhere>
+<Settings>
+<HotKey>17665</HotKey>
+<SaveContent>True</SaveContent>
+<Insert>False</Insert>
+<EditOnlySelection>False</EditOnlySelection>
+<TemporaryFolder>C:\Users\admin\AppData\Local\Temp\</TemporaryFolder>
+<DeleteTempFile>True</DeleteTempFile>
+<Delay>200</Delay>
+</Settings>
+<Extensions>
+<Extension Extension="vim" Editor="C:\Program Files (x86)\Vim\vim90\gvim.exe" Parameters="&quot;%1&quot;" UTF8="True"/>
+</Extensions>
+</TextEditorAnywhere>
