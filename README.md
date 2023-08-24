@@ -17,8 +17,6 @@ enable using WSL on [simple terminal](https://st.suckless.org/).
 Fourth, clone [dotfiles](https://github.com/irizwaririz/dotfiles) and use the
 installation script to install simple terminal and others.
 
-Fifth, install gVim for Windows.
-
 ## Windows ProgramData Setup
 
 First, copy `Startup/instantiate_xserver.bat` to
@@ -27,9 +25,9 @@ up the X server on startup. Test by running the script and opening simple
 terminal.
 
 Second, copy the `Simple Terminal` folder to 
-`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\` and put the shortcut
-link in the Desktop. Test by opening the shortcut.
+`C:\Users\<user>\AppData\Local\Programs\` and put the shortcut link in the
+Desktop. Test by opening the shortcut.
 
 Third, copy the `TextEditorAnywhere` folder to
-`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\`, run it and set it to
-run when Windows starts in the settings. Also set gVim as the editor.
+`C:\Users\<user>\AppData\Local\Programs\`, run it and set it to run when
+Windows starts in the settings.

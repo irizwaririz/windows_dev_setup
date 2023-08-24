@@ -4,11 +4,11 @@
 <SaveContent>True</SaveContent>
 <Insert>False</Insert>
 <EditOnlySelection>False</EditOnlySelection>
-<TemporaryFolder>C:\Users\admin\AppData\Local\Temp\</TemporaryFolder>
+<TemporaryFolder>\Temp</TemporaryFolder>
 <DeleteTempFile>True</DeleteTempFile>
 <Delay>200</Delay>
 </Settings>
 <Extensions>
-<Extension Extension="vim" Editor="C:\Program Files (x86)\Vim\vim90\gvim.exe" Parameters="&quot;%1&quot;" UTF8="True"/>
+<Extension Extension="txt" Editor="C:\Windows\System32\cmd.exe" Parameters="/c C:/Windows/sysnative/bash.exe -lic &quot;st -e vim $(echo &apos;%1&apos; | sed &apos;s/\\/\//g&apos; | sed &apos;s/C:/\/mnt\/c/g&apos;)&quot;" UTF8="True"/>
 </Extensions>
 </TextEditorAnywhere>
